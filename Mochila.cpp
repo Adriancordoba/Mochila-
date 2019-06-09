@@ -1,5 +1,7 @@
 #include "Mochila.h"
-Mochila(int, int *);
+Mochila(int, int *){
+
+}
 Mochila();
 Criatura ** cruzar( Criatura *); 
 void mutar();
