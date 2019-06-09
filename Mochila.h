@@ -1,5 +1,6 @@
 #ifndef MOCHILA
 #define MOCHILA
+#include "Criatura.h"
 public:
 		int hitP; 	//health point
 		int atk;	// attack
